@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Interviewquestion.Overrding&apos; to &apos;Parent&apos;&#x0D;&#x0A;- Original project: &apos;Learning&apos;&#x0D;&#x0A;- Original element: &apos;Interviewquestion.Overrding&apos;&#x0D;&#x0A;- Renamed element: &apos;Interviewquestion.Parent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Overrding&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Interviewquestion{Overrding.java[Overrding" matchStrategy="1" name="Parent" qualified="false" references="true" similarDeclarations="false" stamp="1690512700404" textual="false" version="1.0"/>
+</session>

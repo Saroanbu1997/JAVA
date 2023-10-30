@@ -1,0 +1,23 @@
+package Interviewquestion;
+
+import java.util.HashMap;
+
+public class Stringvaluecount {
+
+	public static void main(String[] args) {
+		String word="Saravanan";
+		
+		HashMap<Character, Integer>	hashmap = new HashMap<Character, Integer>();
+		int count=1;
+		for(int i=0;i<word.length();i++) {
+			if(!hashmap.containsKey(word.charAt(i))) {
+				hashmap.put(null, count);
+			}else {
+				count =count+1;
+				hashmap.put(null, count);
+
+			}
+		}
+	}
+
+}

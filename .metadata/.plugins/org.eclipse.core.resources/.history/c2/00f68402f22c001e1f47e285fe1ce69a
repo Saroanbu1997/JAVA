@@ -1,0 +1,13 @@
+package Interviewquestion;
+
+public class Son extends Parent{
+
+	public void marraige() {
+		System.out.println("My marraige my rules");
+	}
+	public static void main(String[] args) {
+
+		
+	}
+
+}
